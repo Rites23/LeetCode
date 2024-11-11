@@ -8,6 +8,7 @@ A collection of LeetCode questions and answers!
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Rites23/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Rites23/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Rites23/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Rites23/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Rites23/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rites23/LeetCode/tree/master/0595-big-countries) |
